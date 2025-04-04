@@ -1,0 +1,123 @@
+Boys Discus
+Place	Name	Team	Mark
+1	Solomon Brown	Brick Township	158-8
+2	Levi Alexander Foote	Southern Regional	153-9
+3	Arthur Hrycak	Cranford	150-9
+4	Marcus Blasucci	CBA	150-9
+5	Antonio Giuliano	Watchung Hills	146-0
+6	Joe Seib	St. Rose	141-7
+7	Albert Yodakis	CBA	141-4
+8	Rian Sanders	Manville	139-7
+9	Trip Freitag	Manville	136-2
+10	Cameron Feiler	CBA	132-11
+11	Zachary Beers	Voorhees	125-6
+12	Dayquan Williams	Rancocas Valley Regional HS	124-9
+13	JJ LaTesta	St. Rose	92-3
+14	Aiden Tonero	St. Rose	85-10
+15
+16
+17
+18
+19
+20
+
+Boys Shot Put
+Place	Name	Team	Mark
+1	Joe Seib	St. Rose	61-1.25
+2	Albert Yodakis	CBA	57-3.5
+3	Cameron Feiler	CBA	56-10
+4	Marcus Blasucci	CBA	56-3.25
+5	Kane Perry	Shore Regional	51-2.75
+6	Antonio Giuliano	Watchung Hills	51-2.5
+7	Colin Pinguelo	CBA	48-3.5
+8	JJ LaTesta	St. Rose	47-6.25
+9	Matthew Orio	CBA	46-5.75
+10	Logan Javier	CBA	40-8
+11	Aiden Tonero	St. Rose	38-10.25
+12
+13
+14
+15
+16
+17
+18
+18
+19
+20
+
+Boys Javelin
+Place	Name	Team	Mark
+1	Trip Freitag	Manville	175-7
+2	Dylan Fitzpatrick	Burlington Township	168-1
+3	Alex Kessler	Cranford	165-9
+4	Rian Sanders	Manville	160-1
+5	Anthony Barber	Burlington Township	159-11
+6	Carmine Florio	RFH	151-4
+7	Cole Ryan	CBA	151-2
+8	Millen Dhiman	CBA	147-2
+9	Logan Schlenk	Jackson Memorial HS	141-4
+10	Satvik Dhiman	CBA	138-2
+
+
+
+
+
+
+
+
+
+
+
+
+Girls Discus
+Place	Name	Team	Mark
+1	Tetiana Kontsohrada	Old Bridge	123-3
+2	Kendra Green	Rancocas Valley	116-2
+3	Olivia Ptasznik	East Brunswick	110-11
+4	Gabriela Pitano	Kearny HS	96-6
+5	Addison Lore	Cherokee HS	96-2
+6	Kamiyah Hickson	Cherokee HS	88-2
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Girls Shot Put
+Place	Name	Team	Mark
+1	Kendra Green	Rancocas Valley	41-1.75
+2	Gabriela Pifano	Kearny HS	33-4
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Girls Javelin
+Place	Name	Team	Mark
+1	Josephine Buxton	Absegami	114-9
+2	Addison Lore	Cherokee HS	111-2
+3	Gabriela Campanaro	Cherokee HS	90-10
+4	Gabriela Pifano	Kearny HS	84-3
