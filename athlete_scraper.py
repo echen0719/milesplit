@@ -27,6 +27,19 @@ def getLevels(athlete):
 
     return levels
 
+def getNames(athlete):
+    response = requests.get(athlete)
+
+    if response.status_code == 200:
+       soup = BeautifulSoup(response.text, 'html.parser')
+       name = soup.find('h1', {'id': 'athleteName'}).get_text(strip=True)
+
+    else:
+        print(f"Try Again. Something wrong. Status Code: {response.status_code}")
+        exit()
+        
+    return name
+
 def main():
     for i in range(1, 16268836): # currents max athlete MS has
         athlete = "https://www.milesplit.com/athletes/{}".format(i)
@@ -40,3 +53,8 @@ print(getLevels("https://www.milesplit.com/athletes/13822077"))
 # test athlete 1 would return ['2025 Indoor Rankings', '2024 Indoor Rankings', 'High School']
 print(getLevels("https://www.milesplit.com/athletes/15218721"))
 # test athlete 2 (me) would return ['High School']
+
+print(getNames("https://www.milesplit.com/athletes/13822077"))
+# test athlete 1 would return 'Raghu Moorthy'
+print(getNames("https://www.milesplit.com/athletes/15218721"))
+# test athlete 2 would return 'Eric Chen'
