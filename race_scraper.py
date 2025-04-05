@@ -20,7 +20,7 @@ def heatScrape(raceCompleteLink):
                 file.write(content)
 
     else:
-        print(f"Try Again. Something wrong. Status Code: {request.status_code}")
+        print(f"Try Again. Something wrong. Status Code: {response.status_code}")
         exit()
 
 def getHeatLinks():
@@ -37,7 +37,10 @@ def getHeatLinks():
             heat.append(anchor.get('href').replace('/formatted/', '?type=raw'))
         return heat # returns a list
 
-if __name__ == "__main__":
+def main():
     for heat in getHeatLinks(): # seems to work
         heatScrape(heat)
         time.sleep(2)
+
+if __name__ == "__main__":
+    main()
