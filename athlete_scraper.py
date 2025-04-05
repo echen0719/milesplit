@@ -34,6 +34,9 @@ def getNames(athlete):
        soup = BeautifulSoup(response.text, 'html.parser')
        name = soup.find('h1', {'id': 'athleteName'}).get_text(strip=True)
 
+    elif response.status_code == 404:
+        return
+
     else:
         print(f"Try Again. Something wrong. Status Code: {response.status_code}")
         exit()
